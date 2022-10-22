@@ -1,7 +1,7 @@
 ---
 title: "A comparative study of the use of local directional pattern for texture-based informal settlement classification"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-07-01-comparative-study-of-the-use-of-local-directional-pattern
 excerpt: 'A comparative study of the use of local directional pattern for texture-based informal settlement classification'
 date: 2017-07-01
 venue: 'sciencedirect'
