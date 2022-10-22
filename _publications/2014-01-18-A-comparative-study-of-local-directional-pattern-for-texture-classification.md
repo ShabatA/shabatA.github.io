@@ -12,5 +12,4 @@ Texture is an important feature for image analysis in which each pixel is classi
 
 [Download paper here]([https://ieeexplore.ieee.org/document/6916773])
 
-Recommended citation: Abuobayda Shabat, Jules-RaymondTapamo (2014). "citation: 'Abuobayda Shabat, Jules-RaymondTapamo (2014). &quot;A comparative study of local directional pattern for texture classification&quot; <i>sciencedirect</i>. 1(1).'
-" <i>IEEE</i>. 1(1).
+Recommended citation: Abuobayda Shabat, Jules-RaymondTapamo (2014). "A comparative study of local directional pattern for texture classification" <i>IEEE</i>. 1(1).

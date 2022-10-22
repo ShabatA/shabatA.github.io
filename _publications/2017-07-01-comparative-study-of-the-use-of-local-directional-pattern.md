@@ -12,5 +12,4 @@ In developing and emerging countries progression of informal settlements has bee
 
 [Download paper here]([https://www.sciencedirect.com/science/article/pii/S1665642317300421])
 
-Recommended citation: Abuobayda Shabat, Jules-RaymondTapamo (2017). "citation: 'Abuobayda Shabat, Jules-RaymondTapamo (2017). &quot;A comparative study of the use of local directional pattern for texture-based informal settlement classification&quot; <i>sciencedirect</i>. 1(1).'
-" <i>sciencedirect</i>. 1(1).
+Recommended citation: Abuobayda Shabat, Jules-RaymondTapamo (2017). "A comparative study of the use of local directional pattern for texture-based informal settlement classification" <i>sciencedirect</i>. 1(1).
